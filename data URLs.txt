@@ -1,0 +1,2 @@
+https://ranaroussi.github.io/yfinance/index.html 
+https://pandas-datareader.readthedocs.io/en/latest/ 
